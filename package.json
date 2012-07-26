@@ -1,0 +1,17 @@
+{
+  "author": "Gui Lin <guileen@gmail.com>",
+  "name": "asyncthrottle",
+  "description": "Async throttle, use for benchmark",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guileen/asyncthrottle.git"
+  },
+  "main": "asyncthrottle.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
